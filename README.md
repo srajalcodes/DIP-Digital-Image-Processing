@@ -26,8 +26,6 @@ This repository contains a collection of Jupyter Notebooks focused on image proc
 To run these notebooks, you can use Colaboratory or any Jupyter Notebook environment. Simply open the desired notebook and follow the instructions within.
 
 ## Contributors
-- [Your Name]
-- [Any other contributors]
+-  Srajal
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
